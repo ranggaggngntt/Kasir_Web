@@ -164,7 +164,7 @@ $h2 = mysqli_num_rows($pelanggan);
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Zaidan 2024</div>
+                            <div class="text-muted">Copyright &copy; Rangga 2024</div>
                         </div>
                     </div>
                 </footer>
@@ -204,6 +204,7 @@ $h2 = mysqli_num_rows($pelanggan);
 
     </div>
   </div>
+
 </div>
 </form>
 </html>
