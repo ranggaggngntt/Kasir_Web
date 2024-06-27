@@ -80,7 +80,7 @@ $h2 = mysqli_num_rows($h1);
                                     <td><?= $alamat ?></td>
                                     <td><?= $jumlah ?></td>
                                     <td>
-                                        <a href="view.php?id_pesanan=<?= $id_pesanan ?>" class="btn btn-primary">Tampilkan</a> |
+                                        <a href="view.php?idp=<?= $id_pesanan ?>" class="btn btn-primary">Tampilkan</a> |
                                         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delete<?= $id_pesanan ?>">Delete</button>
                                     </td>
                                 </tr>
